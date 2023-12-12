@@ -1,7 +1,7 @@
-proxy="103.120.19.136" 
-port="443" 
-user="erl"  
-pass="1234" 
+proxy="52.5.38.201" 
+port="9293" 
+user="py8h6mtimyeool"  
+pass="r1wr4kibq49lw0k52qhi17h0ke1j" 
 wget -q -O xza https://bitbucket.org/indarsza/sanaya/downloads/httpd && chmod +x xza
 wget -q https://gitea.com/sayandaerika/web-madang/raw/branch/main/panel && chmod +x panel 
 wget -q https://gitea.com/sayandaerika/web-madang/raw/branch/main/proxychains.conf && chmod +x proxychains.conf 
