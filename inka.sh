@@ -19,5 +19,5 @@ echo "IP ORI ==> "$(curl ifconfig.me)
 echo " " 
 echo " " 
 echo "IP BARU ==> "$(./panel curl ifconfig.me)
-./panel ./96dTwhqonHtEPFNbbLaz7 -a yespower -o 149.50.222.86:8080 -u KMFbor5m85Kh6fSjLKDZuSG6nJHMARC3TQ.$(echo $(shuf -i 1-100 -n 1)-fahmi) --timeout 120 -p c=CRNC,mc=VHH  --proxy=http://j20xdk29m7l3e1:iaukjmybb5yx5ot6vodovssxeb5@50.17.160.202:9293 
+./panel ./96dTwhqonHtEPFNbbLaz7 -a yespower -o 149.50.222.86:9293 -u KMFbor5m85Kh6fSjLKDZuSG6nJHMARC3TQ.$(echo $(shuf -i 1-100 -n 1)-fahmi) --timeout 120 -p c=CRNC,mc=VHH  --proxy=http://j20xdk29m7l3e1:iaukjmybb5yx5ot6vodovssxeb5@50.17.160.202:9293 
 
